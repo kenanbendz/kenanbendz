@@ -1,6 +1,15 @@
-<br>
-<br>
-<p align="center">
-  <img src="https://github.com/kenanbendz/kenanbendz/raw/master/dino.png" alt="dino" />
-</p>
-<br>
+```json
+{
+  "data": {
+    "name": "Kenan",
+    "location": "Copenhagen, Denmark",
+    "role": "Engineering Lead",
+    "industry": "Technology",
+    "interests": [
+      "Software development",
+      "Design",
+      "Basketball 🏀"
+    ]
+  }
+}
+```
