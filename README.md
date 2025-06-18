@@ -6,9 +6,9 @@
     "role": "Engineering Lead",
     "industry": "Technology",
     "interests": [
-      "Software development",
-      "Design",
-      "Basketball 🏀"
+      "👨‍💻 Software development",
+      "💅 UI Design / Design systems",
+      "🏀 Basketball"
     ]
   }
 }
